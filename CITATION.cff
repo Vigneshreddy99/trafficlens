@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use TrafficLens in your research or project, please cite it as below."
+authors:
+  - family-names: "Reddy"
+    given-names: "Vignesh"
+    email: "2320030126@klh.edu.in"
+    affiliation: "KL University"
+title: "TrafficLens: AI-Powered Web Traffic & User Behavior Intelligence Platform"
+version: 1.0.0
+date-released: 2024-10-29
+url: "https://github.com/Vigneshreddy99/trafficlens"
+repository-code: "https://github.com/Vigneshreddy99/trafficlens"
+keywords:
+  - web-analytics
+  - bot-detection
+  - user-behavior
+  - machine-learning
+  - fraud-detection
+  - ai-agents
+  - behavioral-fingerprinting
+  - conversion-optimization
+  - anomaly-detection
+  - streamlit
+license: MIT
+abstract: >
+  TrafficLens is an intelligent analytics platform that provides
+  automated visitor classification, behavioral fingerprinting,
+  real-time anomaly detection, and conversion optimization.
+  It distinguishes between humans, AI agents, and bots with 92.7%
+  accuracy, identifies traffic spikes and fraud patterns, and
+  generates AI-powered insights with evidence-backed recommendations.
+  The platform features a privacy-first design with GDPR-compliant
+  tracking and includes comprehensive visualization dashboards.
